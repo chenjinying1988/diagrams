@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T03:28:55.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.2.6" etag="LXpxW25uSubUVgrzTbIX" type="github"><diagram id="0JOp0r7KkBF2jzAlS0-K">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-24T05:12:36.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="MbL5BB1rfhCVORj3_ML8" version="16.2.6" type="github">
+  <diagram id="0JOp0r7KkBF2jzAlS0-K" name="第 1 页">
+    <mxGraphModel dx="788" dy="443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xxrboJmuFi1N5p6xLD3U-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/vehicle-37/24/Taxi-128.png" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xxrboJmuFi1N5p6xLD3U-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="xxrboJmuFi1N5p6xLD3U-3" target="xxrboJmuFi1N5p6xLD3U-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xxrboJmuFi1N5p6xLD3U-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/colourful-education/250/bulb-128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xxrboJmuFi1N5p6xLD3U-6" value="位置服务" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="45" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xxrboJmuFi1N5p6xLD3U-9" value="司机发车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xxrboJmuFi1N5p6xLD3U-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#990000;" edge="1" parent="1" source="xxrboJmuFi1N5p6xLD3U-12" target="xxrboJmuFi1N5p6xLD3U-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxrboJmuFi1N5p6xLD3U-16" value="&lt;b&gt;&lt;font color=&quot;#990000&quot;&gt;3分钟后&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xxrboJmuFi1N5p6xLD3U-14">
+          <mxGeometry x="-0.411" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xxrboJmuFi1N5p6xLD3U-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="xxrboJmuFi1N5p6xLD3U-12" target="xxrboJmuFi1N5p6xLD3U-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxrboJmuFi1N5p6xLD3U-19" value="取消费 Y/N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xxrboJmuFi1N5p6xLD3U-18">
+          <mxGeometry x="-0.0457" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xxrboJmuFi1N5p6xLD3U-12" value="客服智能研判" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
+          <mxGeometry x="369" y="476" width="45" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xxrboJmuFi1N5p6xLD3U-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/dot/128/taxi_passanger.png" vertex="1" parent="1">
+          <mxGeometry x="115" y="480" width="70" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
