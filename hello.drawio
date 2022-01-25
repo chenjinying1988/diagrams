@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T01:45:26.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bjoT2mPbEPyb8MWbIjzM" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T01:38:45.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="O0Cilrcr-TsQZ9dVt5WD" version="16.2.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1186" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,10 +133,10 @@
             <mxRectangle x="402" y="589" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="taELDb5qyc8ubtcI1n9N-80" value="营销发放优惠券&lt;br&gt;10元" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" vertex="1" parent="taELDb5qyc8ubtcI1n9N-71">
+        <mxCell id="taELDb5qyc8ubtcI1n9N-80" value="营销广告投放&lt;br&gt;A活动" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" vertex="1" parent="taELDb5qyc8ubtcI1n9N-71">
           <mxGeometry x="7" y="51.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="taELDb5qyc8ubtcI1n9N-81" value="营销发放优惠券&lt;br&gt;20元" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="taELDb5qyc8ubtcI1n9N-71">
+        <mxCell id="taELDb5qyc8ubtcI1n9N-81" value="营销广告投放&lt;br&gt;B活动" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="taELDb5qyc8ubtcI1n9N-71">
           <mxGeometry x="7" y="180.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="taELDb5qyc8ubtcI1n9N-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#009900;" edge="1" parent="taELDb5qyc8ubtcI1n9N-71">
