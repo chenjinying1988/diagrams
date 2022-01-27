@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T09:56:24.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="eEFtK3ouf6Hg5KYnks8f" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T10:20:55.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="HqCL0L1-ClMfNyCN_YAx" version="16.2.6" type="github">
   <diagram id="mDk3vGWMZ9cnpcIgbxEh" name="Page-1">
     <mxGraphModel dx="946" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,6 +56,14 @@
         </mxCell>
         <mxCell id="isWSbf4JrnmpTFnG_lly-18" value="用户标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWSbf4JrnmpTFnG_lly-354" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontSize=14;" edge="1" parent="1" source="isWSbf4JrnmpTFnG_lly-22" target="isWSbf4JrnmpTFnG_lly-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isWSbf4JrnmpTFnG_lly-355" value="固化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="isWSbf4JrnmpTFnG_lly-354">
+          <mxGeometry x="-0.0407" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="isWSbf4JrnmpTFnG_lly-22" value="用户分群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="676" width="120" height="60" as="geometry" />
