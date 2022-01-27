@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T09:19:46.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1fw-9Nvy_ZtxyX7zCsS_" version="16.2.6" type="github"><diagram id="mDk3vGWMZ9cnpcIgbxEh" name="Page-1">jZLBboMwDIafhmMlICuF61jLLjtx2G5VRDySNhCUhgF7+oXFKaBq0i6R/dmxnd8JSN6MhaYdf1MMZBCHbAzISxDH2VNizxlMDuxJ5ECtBXNoBUrxDQhDpL1gcNskGqWkEd0WVqptoTIbRrVWwzbtU8lt147W8ADKispH+i6Y4Y6m8WHhryBq7jtHSeYiDfXJ+JIbp0wNK0SOAcm1UsZZzZiDnLXzurh7pz+i98E0tOY/F2ja1x9nesj2u3N4uRTXayp3WOWLyh4fjMOaySugVd8ymIuEAXkeuDBQdrSao4NduWXcNNJ6kTUfh/IdQBsYVwiHLEA1YPRkU3w0Q8Hwx8Qp+sOif+RF5SvtE2QUV17fSy+qWAOF8e6ygN/Y6heT4w8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-27T02:28:15.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="EaREC14_PxEO4huZa7GW" version="16.2.6" type="github">
+  <diagram id="mDk3vGWMZ9cnpcIgbxEh" name="Page-1">
+    <mxGraphModel dx="946" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="isWSbf4JrnmpTFnG_lly-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a8ugX_a795-_0jjGkk8l-1" target="isWSbf4JrnmpTFnG_lly-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8ugX_a795-_0jjGkk8l-1" value="用户标签" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWSbf4JrnmpTFnG_lly-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="isWSbf4JrnmpTFnG_lly-1" target="a8ugX_a795-_0jjGkk8l-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isWSbf4JrnmpTFnG_lly-1" value="用户画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isWSbf4JrnmpTFnG_lly-3" value="用户分群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
