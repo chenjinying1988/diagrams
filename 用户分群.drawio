@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T10:54:48.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="eL6DAyYd68a33ZPP0oMv" version="16.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-09T10:56:27.033Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="XPOL2ZkdejGTZ4LAdGq1" version="16.2.6" type="github" pages="2">
   <diagram id="M27XJW6HEvUApXI8m0nv" name="第 2 页">
-    <mxGraphModel dx="1186" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6hMVrn2h1XVQaTOjj5F0-0" />
         <mxCell id="6hMVrn2h1XVQaTOjj5F0-1" parent="6hMVrn2h1XVQaTOjj5F0-0" />
@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7YATKJMTD7KYeXO3Skbc-1" value="指标管理" style="swimlane;" vertex="1" parent="6hMVrn2h1XVQaTOjj5F0-1">
-          <mxGeometry x="429" y="78" width="288" height="200" as="geometry" />
+          <mxGeometry x="417" y="145" width="288" height="147" as="geometry" />
         </mxCell>
         <mxCell id="7YATKJMTD7KYeXO3Skbc-2" value="标签定义" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="7YATKJMTD7KYeXO3Skbc-1">
           <mxGeometry x="194" y="66" width="60" height="60" as="geometry" />
@@ -105,7 +105,7 @@
         <mxCell id="7YATKJMTD7KYeXO3Skbc-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="6hMVrn2h1XVQaTOjj5F0-1" source="7YATKJMTD7KYeXO3Skbc-2" target="DJOae8FIDAvuBnYBHK37-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="771" y="174" />
+              <mxPoint x="771" y="241" />
               <mxPoint x="771" y="485" />
             </Array>
           </mxGeometry>
