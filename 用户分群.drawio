@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T10:51:03.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2ualfTyCdbvOn3c7ffU8" version="16.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-09T10:51:16.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="y1SSVNupyOnLPvOeOh_W" version="16.2.6" type="github" pages="2">
   <diagram id="M27XJW6HEvUApXI8m0nv" name="第 2 页">
     <mxGraphModel dx="946" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="DJOae8FIDAvuBnYBHK37-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6hMVrn2h1XVQaTOjj5F0-1" source="DJOae8FIDAvuBnYBHK37-15" target="DJOae8FIDAvuBnYBHK37-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DJOae8FIDAvuBnYBHK37-1" value="分群规则" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DJOae8FIDAvuBnYBHK37-0">
+        <mxCell id="DJOae8FIDAvuBnYBHK37-1" value="分群规则配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DJOae8FIDAvuBnYBHK37-0">
           <mxGeometry y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
