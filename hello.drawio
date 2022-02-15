@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T01:34:34.511Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="aihsvhfPU1jxLJBXqel8" version="16.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-15T06:34:17.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="V1mPlKqip9IEoTXT9gnD" version="16.5.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="ABTest">
-    <mxGraphModel dx="1182" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1558" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -73,10 +73,10 @@
         <mxCell id="taELDb5qyc8ubtcI1n9N-23" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#007FFF;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;strokeWidth=1;" parent="taELDb5qyc8ubtcI1n9N-19" vertex="1">
           <mxGeometry x="10" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="taELDb5qyc8ubtcI1n9N-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;uid尾号 00～39&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="taELDb5qyc8ubtcI1n9N-24" value="&lt;span style=&quot;font-size: 14px&quot;&gt;实验组A：58%&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="136" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="taELDb5qyc8ubtcI1n9N-25" value="&lt;font style=&quot;font-size: 14px&quot;&gt;uid尾号 40～49&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="taELDb5qyc8ubtcI1n9N-25" value="&lt;font style=&quot;font-size: 14px&quot;&gt;实验组B：30%&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="175" y="243" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="taELDb5qyc8ubtcI1n9N-36" value="用户分组&#xa;&#xa;" style="swimlane;startSize=0;fontSize=14;strokeColor=#333333;strokeWidth=1;fillColor=#FFFFFF;fontStyle=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -84,7 +84,7 @@
             <mxRectangle x="600" y="70" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="taELDb5qyc8ubtcI1n9N-49" value="&lt;font style=&quot;font-size: 14px&quot;&gt;uid尾号 50～99&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="taELDb5qyc8ubtcI1n9N-49" value="&lt;span style=&quot;font-size: 14px&quot;&gt;对照组：12%&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="158" y="348" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="taELDb5qyc8ubtcI1n9N-52" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
