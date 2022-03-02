@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T09:25:29.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="zzW-0_B8mGyb5pJDYDw5" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T09:26:12.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="XpqXMoybMAKagTLWZsS7" version="16.5.5" type="github">
   <diagram id="RmFsYLsExDQatSAV30NK" name="第 1 页">
     <mxGraphModel dx="2133" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="bcmtBXyTn41cGkJ8xuMt-37" value="权益" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="646.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bcmtBXyTn41cGkJ8xuMt-38" value="召回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bcmtBXyTn41cGkJ8xuMt-38" value="阻断交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435.5" y="646.25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
